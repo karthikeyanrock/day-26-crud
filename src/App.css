@@ -37,7 +37,7 @@
   }
 }
 .cont{
-   background: blue;
+   background:black;
    display: flex;
    justify-content: space-around;
    flex-flow:wrap
